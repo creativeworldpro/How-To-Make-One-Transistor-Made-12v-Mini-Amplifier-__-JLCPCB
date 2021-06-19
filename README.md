@@ -6,6 +6,7 @@ Get SMT Coupons: https://jlcpcb.com/RTA
 
 
 
+
 An amplifier is an electronic device, that can increase the power of signal, voltage and current.
 An amplifier produces an output that is larger than the input signal. That means, an amplifier is an electrical device that makes sounds louder & clear.
 In this project, we are going to teach you making a simple amplifier circuit. 
