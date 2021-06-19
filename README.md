@@ -1,7 +1,5 @@
 Thanks To JLCPCB.
-
 $2 for 1-4 Layer PCBs.
-
 Get SMT Coupons: https://jlcpcb.com/RTA
 
 
@@ -15,14 +13,12 @@ You can operate this circuit using only DC-12v and only 3 type electronics compo
 
 To make this circuit, we need – 
 
-1. Transistor – D 718
 
+1. Transistor – D 718
 2. Capacitor – 470µf/ 35v
- 
 3.Resistor – 1 KΩ
 
 4. Power Source - DC 12v
-
 5. Sound Speaker
 
 
